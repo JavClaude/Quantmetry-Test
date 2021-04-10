@@ -25,6 +25,7 @@ Lancer le script d'entraînement, arguments:
 * `--max_depth`, int  
 
 ```bash
+cd src
 python main.py 
 ```
 
