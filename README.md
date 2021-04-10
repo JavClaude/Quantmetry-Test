@@ -13,6 +13,7 @@ pip install virtualenv
 virtualenv .venv
 source .venv/bin/activate # activation de l'environnement virtuel
 
+cd src
 pip install -r requirements.txt # installation des dépendances
 ```
 
